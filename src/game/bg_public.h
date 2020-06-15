@@ -35,6 +35,7 @@ If you have questions concerning this license or the applicable additional terms
 
 // because games can change separately from the main system version, we need a
 // second version that must match between game and cgame
+#pragma once
 
 #define GAME_VERSION        "baseq3-1"
 
@@ -103,14 +104,15 @@ float Com_GetFlamethrowerRange( void );
 #define LIGHTNING_FLASH_TIME    150
 
 // RF, client damage identifiers
-typedef enum {
+enum clientDamage_t
+{
 	CLDMG_SPIRIT,
 	CLDMG_FLAMETHROWER,
 	CLDMG_TESLA,
 	CLDMG_BOSS1LIGHTNING,
 	CLDMG_DEBRIS,
 	CLDMG_MAX
-} clientDamage_t;
+};
 
 // RF
 #define MAX_TAGCONNECTS     32
@@ -196,7 +198,8 @@ typedef enum {
 #error overflow: (CS_MAX) > MAX_CONFIGSTRINGS
 #endif
 
-typedef enum {
+enum gametype_t
+{
 	GT_FFA,             // free for all
 	GT_TOURNAMENT,      // one on one tournament
 	GT_SINGLE_PLAYER,   // single player tournament
@@ -208,15 +211,16 @@ typedef enum {
 	GT_WOLF,            // DHM - Nerve :: Wolfenstein Multiplayer
 
 	GT_MAX_GAME_TYPE
-} gametype_t;
+};
 
 // Rafael gameskill
-typedef enum {
+enum gameskill_t
+{
 	GSKILL_EASY,
 	GSKILL_MEDIUM,
 	GSKILL_HARD,
 	GSKILL_MAX      // must always be last
-} gameskill_t;
+};
 
 typedef enum { GENDER_MALE, GENDER_FEMALE, GENDER_NEUTER } gender_t;
 
@@ -285,9 +289,9 @@ typedef struct {
 	usercmd_t cmd, oldcmd;
 	int tracemask;                  // collide against these types of surfaces
 	int debugLevel;                 // if set, diagnostic output will be printed
-	qboolean noFootsteps;           // if the game is setup for no footsteps by the server
-	qboolean noWeapClips;               // if the game is setup for no weapon clips by the server
-	qboolean gauntletHit;           // true if a gauntlet attack would actually hit something
+	bool noFootsteps;           // if the game is setup for no footsteps by the server
+	bool noWeapClips;               // if the game is setup for no weapon clips by the server
+	bool gauntletHit;           // true if a gauntlet attack would actually hit something
 
 	// results (out)
 	int numtouch;
@@ -466,7 +470,8 @@ typedef enum {
 	KEY_LOCKED_TRIGGERED    // locked by a target_lock
 } wkey_t;                   // key_t conflicted with <types.h>
 
-typedef enum {
+enum holdable_t
+{
 	HI_NONE,
 
 //	HI_TELEPORTER,
@@ -489,12 +494,12 @@ typedef enum {
 //	HI_15,	// ?
 
 	HI_NUM_HOLDABLE
-} holdable_t;
+};
 
 // Ridah
 //
 // character presets
-typedef enum
+enum AICharacters_t
 {
 	AICHAR_NONE,
 
@@ -520,7 +525,7 @@ typedef enum
 	AICHAR_CIVILIAN,
 
 	NUM_CHARACTERS
-} AICharacters_t;
+};
 // done.
 
 
@@ -1258,19 +1263,20 @@ extern int bg_numItems;
 gitem_t *BG_FindItem( const char *pickupName );
 gitem_t *BG_FindItem2( const char *name );  //----(SA)	added
 gitem_t *BG_FindItemForWeapon( weapon_t weapon );
-gitem_t *BG_FindItemForPowerup( powerup_t pw );
+gitem_t *BG_FindItemForPowerup( int pw );
 gitem_t *BG_FindItemForHoldable( holdable_t pw );
+gitem_t *BG_FindItemForHoldable( int pw );
 gitem_t *BG_FindItemForAmmo( int ammo );        //----(SA)	modified
 gitem_t *BG_FindItemForKey( wkey_t k, int *index );
-weapon_t BG_FindAmmoForWeapon( weapon_t weapon );
-weapon_t BG_FindClipForWeapon( weapon_t weapon );
+weapon_t BG_FindAmmoForWeapon( int weapon );
+weapon_t BG_FindClipForWeapon( int weapon );
 
-qboolean BG_AkimboFireSequence( int weapon, int akimboClip, int coltClip );
-//qboolean BG_AkimboFireSequence	( playerState_t *ps );	//----(SA)	added
+bool BG_AkimboFireSequence( int weapon, int akimboClip, int coltClip );
+//bool BG_AkimboFireSequence	( playerState_t *ps );	//----(SA)	added
 
 #define ITEM_INDEX( x ) ( ( x ) - bg_itemlist )
 
-qboolean    BG_CanItemBeGrabbed( const entityState_t *ent, const playerState_t *ps );
+bool    BG_CanItemBeGrabbed( const entityState_t *ent, const playerState_t *ps );
 
 
 // g_dmflags->integer flags
@@ -1418,11 +1424,11 @@ void    BG_AddPredictableEventToPlayerstate( int newEvent, int eventParm, player
 
 //void	BG_TouchJumpPad( playerState_t *ps, entityState_t *jumppad );
 
-void    BG_PlayerStateToEntityState( playerState_t *ps, entityState_t *s, qboolean snap );
-void    BG_PlayerStateToEntityStateExtraPolate( playerState_t *ps, entityState_t *s, int time, qboolean snap );
+void    BG_PlayerStateToEntityState( playerState_t *ps, entityState_t *s, bool snap );
+void    BG_PlayerStateToEntityStateExtraPolate( playerState_t *ps, entityState_t *s, int time, bool snap );
 
-qboolean    BG_PlayerTouchesItem( playerState_t *ps, entityState_t *item, int atTime );
-qboolean    BG_PlayerSeesItem( playerState_t *ps, entityState_t *item, int atTime );
+bool    BG_PlayerTouchesItem( playerState_t *ps, entityState_t *item, int atTime );
+bool    BG_PlayerSeesItem( playerState_t *ps, entityState_t *item, int atTime );
 
 //----(SA)	removed PM_ammoNeeded 11/27/00
 void PM_ClipVelocity( vec3_t in, vec3_t normal, vec3_t out, float overbounce );
@@ -1560,7 +1566,7 @@ typedef enum
 	NUM_ANIM_EVENTTYPES
 } scriptAnimEventTypes_t;
 
-typedef enum
+enum animBodyPart_t
 {
 	ANIM_BP_UNUSED,
 	ANIM_BP_LEGS,
@@ -1568,7 +1574,7 @@ typedef enum
 	ANIM_BP_BOTH,
 
 	NUM_ANIM_BODYPARTS
-} animBodyPart_t;
+};
 
 typedef enum
 {
@@ -1643,7 +1649,7 @@ typedef struct
 	footstep_t footsteps;
 	vec3_t headOffset;
 	int version;
-	qboolean isSkeletal;
+	bool isSkeletal;
 
 	// parsed from cfg file
 	animation_t animations[MAX_MODEL_ANIMATIONS];           // anim names, frame ranges, etc
@@ -1725,18 +1731,18 @@ typedef enum
 // Global Function Decs
 
 animModelInfo_t *BG_ModelInfoForModelname( char *modelname );
-qboolean BG_AnimParseAnimConfig( animModelInfo_t *animModelInfo, const char *filename, const char *input );
+bool BG_AnimParseAnimConfig( animModelInfo_t *animModelInfo, const char *filename, const char *input );
 void BG_AnimParseAnimScript( animModelInfo_t *modelInfo, animScriptData_t *scriptData, int client, char *filename, char *input );
-int BG_AnimScriptAnimation( playerState_t *ps, aistateEnum_t state, scriptAnimMoveTypes_t movetype, qboolean isContinue );
+int BG_AnimScriptAnimation( playerState_t *ps, aistateEnum_t state, scriptAnimMoveTypes_t movetype, bool isContinue );
 int BG_AnimScriptCannedAnimation( playerState_t *ps, aistateEnum_t state );
 int BG_AnimScriptStateChange( playerState_t *ps, aistateEnum_t newState, aistateEnum_t oldState );
-int BG_AnimScriptEvent( playerState_t *ps, scriptAnimEventTypes_t event, qboolean isContinue, qboolean force );
-int BG_IndexForString( char *token, animStringItem_t *strings, qboolean allowFail );
-int BG_PlayAnimName( playerState_t *ps, char *animName, animBodyPart_t bodyPart, qboolean setTimer, qboolean isContinue, qboolean force );
-qboolean BG_ValidAnimScript( int clientNum );
+int BG_AnimScriptEvent( playerState_t *ps, scriptAnimEventTypes_t event, bool isContinue, bool force );
+int BG_IndexForString( char *token, animStringItem_t *strings, bool allowFail );
+int BG_PlayAnimName( playerState_t *ps, char *animName, animBodyPart_t bodyPart, bool setTimer, bool isContinue, bool force );
+bool BG_ValidAnimScript( int clientNum );
 char *BG_GetAnimString( int client, int anim );
-void BG_UpdateConditionValue( int client, int condition, int value, qboolean checkConversion );
-int BG_GetConditionValue( int client, int condition, qboolean checkConversion );
+void BG_UpdateConditionValue( int client, int condition, int value, bool checkConversion );
+int BG_GetConditionValue( int client, int condition, bool checkConversion );
 int BG_GetAnimScriptAnimation( int client, aistateEnum_t state, scriptAnimMoveTypes_t movetype );
 void BG_AnimUpdatePlayerStateConditions( pmove_t *pmove );
 int BG_AnimationIndexForString( char *string, int client );

@@ -1,0 +1,23 @@
+﻿  bg_lib.c
+c1 : fatal error C1083: Cannot open source file: '..\game\bg_lib.c': No such file or directory
+  bg_misc.c
+c1 : fatal error C1083: Cannot open source file: '..\game\bg_misc.c': No such file or directory
+  q_math.c
+c1 : fatal error C1083: Cannot open source file: '..\game\q_math.c': No such file or directory
+  q_shared.c
+c1 : fatal error C1083: Cannot open source file: '..\game\q_shared.c': No such file or directory
+  ui_atoms.c
+c1 : fatal error C1083: Cannot open source file: 'ui_atoms.c': No such file or directory
+  ui_gameinfo.c
+c1 : fatal error C1083: Cannot open source file: 'ui_gameinfo.c': No such file or directory
+  ui_main.c
+c1 : fatal error C1083: Cannot open source file: 'ui_main.c': No such file or directory
+  ui_players.c
+c1 : fatal error C1083: Cannot open source file: 'ui_players.c': No such file or directory
+  ui_shared.c
+c1 : fatal error C1083: Cannot open source file: 'ui_shared.c': No such file or directory
+  ui_syscalls.c
+c1 : fatal error C1083: Cannot open source file: 'ui_syscalls.c': No such file or directory
+  ui_util.c
+c1 : fatal error C1083: Cannot open source file: 'ui_util.c': No such file or directory
+  Generating Code...

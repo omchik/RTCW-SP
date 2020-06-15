@@ -1,0 +1,179 @@
+﻿  be_aas_bspq3.cpp
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_aas_bspq3.cpp(425,41): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_aas_bspq3.cpp(432,41): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_aas_bspq3.cpp(519,64): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  be_aas_cluster.cpp
+  be_aas_debug.cpp
+  be_aas_entity.cpp
+  be_aas_file.cpp
+  be_aas_main.cpp
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_aas_main.cpp(170,46): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+  be_aas_move.cpp
+  be_aas_optimize.cpp
+  be_aas_reach.cpp
+  be_aas_route.cpp
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_aas_route.cpp(2033,38): warning C4311: 'type cast': pointer truncation from 'byte *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_aas_route.cpp(2033,38): warning C4302: 'type cast': truncation from 'byte *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_aas_route.cpp(2033,50): warning C4312: 'type cast': conversion from 'int' to 'byte *' of greater size
+  be_aas_routealt.cpp
+  be_aas_routetable.cpp
+  be_aas_sample.cpp
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_aas_sample.cpp(529,3): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_aas_sample.cpp(714,3): warning C4065: switch statement contains 'default' but no 'case' labels
+  be_ai_char.cpp
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_char.cpp(197,37): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_char.cpp(289,42): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_char.cpp(528,38): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+  be_ai_chat.cpp
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(484,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(517,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(707,67): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(1020,67): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(1046,75): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(1231,41): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(1436,88): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(1567,30): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(1828,28): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(1840,28): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(1869,40): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(2030,77): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(2215,27): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(2242,25): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(2411,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(2415,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(2419,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(2423,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(2427,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(2431,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(2435,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(2439,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(2593,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(2597,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(2601,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(2605,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(2609,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(2613,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(2617,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(2621,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_chat.cpp(2653,34): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  be_ai_gen.cpp
+  be_ai_goal.cpp
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_goal.cpp(144,31): warning C4311: 'type cast': pointer truncation from 'char (*)[80]' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_goal.cpp(144,31): warning C4302: 'type cast': truncation from 'char (*)[80]' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_goal.cpp(145,33): warning C4311: 'type cast': pointer truncation from 'char (*)[80]' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_goal.cpp(145,33): warning C4302: 'type cast': truncation from 'char (*)[80]' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_goal.cpp(146,43): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_goal.cpp(146,43): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_goal.cpp(147,31): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_goal.cpp(147,31): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_goal.cpp(148,33): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_goal.cpp(148,33): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_goal.cpp(149,45): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_goal.cpp(149,45): warning C4302: 'type cast': truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_goal.cpp(150,31): warning C4311: 'type cast': pointer truncation from 'vec3_t (*)' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_goal.cpp(150,31): warning C4302: 'type cast': truncation from 'vec3_t (*)' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_goal.cpp(151,31): warning C4311: 'type cast': pointer truncation from 'vec3_t (*)' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_goal.cpp(151,31): warning C4302: 'type cast': truncation from 'vec3_t (*)' to 'int'
+  be_ai_move.cpp
+  be_ai_weap.cpp
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(63,33): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(63,33): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(64,29): warning C4311: 'type cast': pointer truncation from 'char (*)[80]' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(64,29): warning C4302: 'type cast': truncation from 'char (*)[80]' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(65,31): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(65,31): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(66,31): warning C4311: 'type cast': pointer truncation from 'char (*)[80]' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(66,31): warning C4302: 'type cast': truncation from 'char (*)[80]' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(67,43): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(67,43): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(68,31): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(68,31): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(69,41): warning C4311: 'type cast': pointer truncation from 'char (*)[80]' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(69,41): warning C4302: 'type cast': truncation from 'char (*)[80]' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(70,49): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(70,49): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(71,35): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(71,35): warning C4302: 'type cast': truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(72,35): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(72,35): warning C4302: 'type cast': truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(73,31): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(73,31): warning C4302: 'type cast': truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(74,45): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(74,45): warning C4302: 'type cast': truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(75,33): warning C4311: 'type cast': pointer truncation from 'vec3_t (*)' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(75,33): warning C4302: 'type cast': truncation from 'vec3_t (*)' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(76,33): warning C4311: 'type cast': pointer truncation from 'vec3_t (*)' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(76,33): warning C4302: 'type cast': truncation from 'vec3_t (*)' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(77,43): warning C4311: 'type cast': pointer truncation from 'vec3_t (*)' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(77,43): warning C4302: 'type cast': truncation from 'vec3_t (*)' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(78,49): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(78,49): warning C4302: 'type cast': truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(79,41): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(79,41): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(80,39): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(80,39): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(81,37): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(81,37): warning C4302: 'type cast': truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(82,33): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(82,33): warning C4302: 'type cast': truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(83,33): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(83,33): warning C4302: 'type cast': truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(84,37): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(84,37): warning C4302: 'type cast': truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(91,33): warning C4311: 'type cast': pointer truncation from 'char (*)[80]' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(91,33): warning C4302: 'type cast': truncation from 'char (*)[80]' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(92,31): warning C4311: 'type cast': pointer truncation from 'char (*)[80]' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(92,31): warning C4302: 'type cast': truncation from 'char (*)[80]' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(93,35): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(93,35): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(94,39): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(94,39): warning C4302: 'type cast': truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(95,37): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(95,37): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(96,37): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(96,37): warning C4302: 'type cast': truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(97,43): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(97,43): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(98,45): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(98,45): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(99,43): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(99,43): warning C4302: 'type cast': truncation from 'int *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(100,33): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(100,33): warning C4302: 'type cast': truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(101,45): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(101,45): warning C4302: 'type cast': truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(102,37): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(102,37): warning C4302: 'type cast': truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(103,45): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(103,45): warning C4302: 'type cast': truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(104,45): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weap.cpp(104,45): warning C4302: 'type cast': truncation from 'float *' to 'int'
+  be_ai_weight.cpp
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\be_ai_weight.cpp(363,56): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+  Generating Code...
+  Compiling...
+  be_ea.cpp
+  be_interface.cpp
+  l_crc.cpp
+  l_libvar.cpp
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\l_libvar.cpp(88,19): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\l_libvar.cpp(193,23): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\l_libvar.cpp(244,23): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+  l_log.cpp
+  l_memory.cpp
+  l_precomp.cpp
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\l_precomp.cpp(670,25): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\l_precomp.cpp(717,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\l_precomp.cpp(732,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\l_precomp.cpp(746,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\l_precomp.cpp(1188,24): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\l_precomp.cpp(1295,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\l_precomp.cpp(1422,27): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+  l_script.cpp
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\l_script.cpp(825,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\l_script.cpp(1286,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  l_struct.cpp
+C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\l_struct.cpp(367,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1469,5): warning MSB8012: TargetPath(C:\Users\i.shramovich\Documents\RTCW-SP\src\x64\Debug\botlib.lib) does not match the Library's OutputFile property value (C:\Users\i.shramovich\Documents\RTCW-SP\src\botlib\Debug\botlib.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  botlib.vcxproj -> C:\Users\i.shramovich\Documents\RTCW-SP\src\x64\Debug\botlib.lib

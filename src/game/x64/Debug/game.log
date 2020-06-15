@@ -1,0 +1,107 @@
+﻿  ai_chat.c
+c1 : fatal error C1083: Cannot open source file: '..\botai\ai_chat.c': No such file or directory
+  ai_cmd.c
+c1 : fatal error C1083: Cannot open source file: '..\botai\ai_cmd.c': No such file or directory
+  ai_dmnet.c
+c1 : fatal error C1083: Cannot open source file: '..\botai\ai_dmnet.c': No such file or directory
+  ai_dmq3.c
+c1 : fatal error C1083: Cannot open source file: '..\botai\ai_dmq3.c': No such file or directory
+  ai_main.c
+c1 : fatal error C1083: Cannot open source file: '..\botai\ai_main.c': No such file or directory
+  ai_team.c
+c1 : fatal error C1083: Cannot open source file: '..\botai\ai_team.c': No such file or directory
+  ai_cast.c
+c1 : fatal error C1083: Cannot open source file: 'ai_cast.c': No such file or directory
+  ai_cast_characters.c
+c1 : fatal error C1083: Cannot open source file: 'ai_cast_characters.c': No such file or directory
+  ai_cast_debug.c
+c1 : fatal error C1083: Cannot open source file: 'ai_cast_debug.c': No such file or directory
+  ai_cast_events.c
+c1 : fatal error C1083: Cannot open source file: 'ai_cast_events.c': No such file or directory
+  ai_cast_fight.c
+c1 : fatal error C1083: Cannot open source file: 'ai_cast_fight.c': No such file or directory
+  ai_cast_funcs.c
+c1 : fatal error C1083: Cannot open source file: 'ai_cast_funcs.c': No such file or directory
+  ai_cast_func_attack.c
+c1 : fatal error C1083: Cannot open source file: 'ai_cast_func_attack.c': No such file or directory
+  ai_cast_func_boss1.c
+c1 : fatal error C1083: Cannot open source file: 'ai_cast_func_boss1.c': No such file or directory
+  ai_cast_script.c
+c1 : fatal error C1083: Cannot open source file: 'ai_cast_script.c': No such file or directory
+  ai_cast_script_actions.c
+c1 : fatal error C1083: Cannot open source file: 'ai_cast_script_actions.c': No such file or directory
+  ai_cast_script_ents.c
+c1 : fatal error C1083: Cannot open source file: 'ai_cast_script_ents.c': No such file or directory
+  ai_cast_sight.c
+c1 : fatal error C1083: Cannot open source file: 'ai_cast_sight.c': No such file or directory
+  ai_cast_think.c
+c1 : fatal error C1083: Cannot open source file: 'ai_cast_think.c': No such file or directory
+  bg_animation.c
+c1 : fatal error C1083: Cannot open source file: 'bg_animation.c': No such file or directory
+  Generating Code...
+  Compiling...
+  bg_misc.c
+c1 : fatal error C1083: Cannot open source file: 'bg_misc.c': No such file or directory
+  bg_pmove.c
+c1 : fatal error C1083: Cannot open source file: 'bg_pmove.c': No such file or directory
+  bg_slidemove.c
+c1 : fatal error C1083: Cannot open source file: 'bg_slidemove.c': No such file or directory
+  g_active.c
+c1 : fatal error C1083: Cannot open source file: 'g_active.c': No such file or directory
+  g_alarm.c
+c1 : fatal error C1083: Cannot open source file: 'g_alarm.c': No such file or directory
+  g_bot.c
+c1 : fatal error C1083: Cannot open source file: 'g_bot.c': No such file or directory
+  g_client.c
+c1 : fatal error C1083: Cannot open source file: 'g_client.c': No such file or directory
+  g_cmds.c
+c1 : fatal error C1083: Cannot open source file: 'g_cmds.c': No such file or directory
+  g_combat.c
+c1 : fatal error C1083: Cannot open source file: 'g_combat.c': No such file or directory
+  g_items.c
+c1 : fatal error C1083: Cannot open source file: 'g_items.c': No such file or directory
+  g_main.c
+c1 : fatal error C1083: Cannot open source file: 'g_main.c': No such file or directory
+  g_mem.c
+c1 : fatal error C1083: Cannot open source file: 'g_mem.c': No such file or directory
+  g_misc.c
+c1 : fatal error C1083: Cannot open source file: 'g_misc.c': No such file or directory
+  g_missile.c
+c1 : fatal error C1083: Cannot open source file: 'g_missile.c': No such file or directory
+  g_mover.c
+c1 : fatal error C1083: Cannot open source file: 'g_mover.c': No such file or directory
+  g_props.c
+c1 : fatal error C1083: Cannot open source file: 'g_props.c': No such file or directory
+  g_save.c
+c1 : fatal error C1083: Cannot open source file: 'g_save.c': No such file or directory
+  g_script.c
+c1 : fatal error C1083: Cannot open source file: 'g_script.c': No such file or directory
+  g_script_actions.c
+c1 : fatal error C1083: Cannot open source file: 'g_script_actions.c': No such file or directory
+  g_session.c
+c1 : fatal error C1083: Cannot open source file: 'g_session.c': No such file or directory
+  Generating Code...
+  Compiling...
+  g_spawn.c
+c1 : fatal error C1083: Cannot open source file: 'g_spawn.c': No such file or directory
+  g_svcmds.c
+c1 : fatal error C1083: Cannot open source file: 'g_svcmds.c': No such file or directory
+  g_syscalls.c
+c1 : fatal error C1083: Cannot open source file: 'g_syscalls.c': No such file or directory
+  g_target.c
+c1 : fatal error C1083: Cannot open source file: 'g_target.c': No such file or directory
+  g_team.c
+c1 : fatal error C1083: Cannot open source file: 'g_team.c': No such file or directory
+  g_tramcar.c
+c1 : fatal error C1083: Cannot open source file: 'g_tramcar.c': No such file or directory
+  g_trigger.c
+c1 : fatal error C1083: Cannot open source file: 'g_trigger.c': No such file or directory
+  g_utils.c
+c1 : fatal error C1083: Cannot open source file: 'g_utils.c': No such file or directory
+  g_weapon.c
+c1 : fatal error C1083: Cannot open source file: 'g_weapon.c': No such file or directory
+  q_math.c
+c1 : fatal error C1083: Cannot open source file: 'q_math.c': No such file or directory
+  q_shared.c
+c1 : fatal error C1083: Cannot open source file: 'q_shared.c': No such file or directory
+  Generating Code...

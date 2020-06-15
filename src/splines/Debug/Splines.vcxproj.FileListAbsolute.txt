@@ -1,0 +1,2 @@
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\Debug\Splines.lib
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\Debug\Splines.pdb

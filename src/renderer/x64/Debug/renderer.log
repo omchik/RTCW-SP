@@ -1,0 +1,201 @@
+﻿  ahangles.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ahangles.c': No such file or directory
+  ahglobal.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ahglobal.c': No such file or directory
+  ahglyph.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ahglyph.c': No such file or directory
+  ahhint.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ahhint.c': No such file or directory
+  ahmodule.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ahmodule.c': No such file or directory
+  ahoptim.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ahoptim.c': No such file or directory
+  ftcalc.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ftcalc.c': No such file or directory
+  ftdebug.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ftdebug.c': No such file or directory
+  ftextend.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ftextend.c': No such file or directory
+  ftglyph.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ftglyph.c': No such file or directory
+  ftgrays.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ftgrays.c': No such file or directory
+  ftinit.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ftinit.c': No such file or directory
+  ftlist.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ftlist.c': No such file or directory
+  ftmm.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ftmm.c': No such file or directory
+  ftnames.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ftnames.c': No such file or directory
+  ftobjs.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ftobjs.c': No such file or directory
+  ftoutln.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ftoutln.c': No such file or directory
+  ftraster.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ftraster.c': No such file or directory
+  ftrend1.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ftrend1.c': No such file or directory
+  ftsmooth.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ftsmooth.c': No such file or directory
+  Generating Code...
+  Compiling...
+  ftstream.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ftstream.c': No such file or directory
+  ftsystem.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ftsystem.c': No such file or directory
+  sfdriver.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\sfdriver.c': No such file or directory
+  sfobjs.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\sfobjs.c': No such file or directory
+  ttcmap.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ttcmap.c': No such file or directory
+  ttdriver.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ttdriver.c': No such file or directory
+  ttgload.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ttgload.c': No such file or directory
+  ttinterp.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ttinterp.c': No such file or directory
+  ttload.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ttload.c': No such file or directory
+  ttobjs.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ttobjs.c': No such file or directory
+  ttpload.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ttpload.c': No such file or directory
+  ttpost.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ttpost.c': No such file or directory
+  ttsbit.c
+c1 : fatal error C1083: Cannot open source file: '..\ft2\ttsbit.c': No such file or directory
+  jcapimin.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jcapimin.c': No such file or directory
+  jccoefct.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jccoefct.c': No such file or directory
+  jccolor.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jccolor.c': No such file or directory
+  jcdctmgr.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jcdctmgr.c': No such file or directory
+  jchuff.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jchuff.c': No such file or directory
+  jcinit.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jcinit.c': No such file or directory
+  jcmainct.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jcmainct.c': No such file or directory
+  Generating Code...
+  Compiling...
+  jcmarker.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jcmarker.c': No such file or directory
+  jcmaster.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jcmaster.c': No such file or directory
+  jcomapi.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jcomapi.c': No such file or directory
+  jcparam.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jcparam.c': No such file or directory
+  jcphuff.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jcphuff.c': No such file or directory
+  jcprepct.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jcprepct.c': No such file or directory
+  jcsample.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jcsample.c': No such file or directory
+  jctrans.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jctrans.c': No such file or directory
+  jdapimin.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jdapimin.c': No such file or directory
+  jdapistd.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jdapistd.c': No such file or directory
+  jdatadst.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jdatadst.c': No such file or directory
+  jdatasrc.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jdatasrc.c': No such file or directory
+  jdcoefct.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jdcoefct.c': No such file or directory
+  jdcolor.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jdcolor.c': No such file or directory
+  jddctmgr.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jddctmgr.c': No such file or directory
+  jdhuff.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jdhuff.c': No such file or directory
+  jdinput.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jdinput.c': No such file or directory
+  jdmainct.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jdmainct.c': No such file or directory
+  jdmarker.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jdmarker.c': No such file or directory
+  jdmaster.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jdmaster.c': No such file or directory
+  Generating Code...
+  Compiling...
+  jdpostct.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jdpostct.c': No such file or directory
+  jdsample.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jdsample.c': No such file or directory
+  jdtrans.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jdtrans.c': No such file or directory
+  jerror.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jerror.c': No such file or directory
+  jfdctflt.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jfdctflt.c': No such file or directory
+  jidctflt.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jidctflt.c': No such file or directory
+  jmemmgr.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jmemmgr.c': No such file or directory
+  jmemnobs.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jmemnobs.c': No such file or directory
+  jutils.c
+c1 : fatal error C1083: Cannot open source file: '..\jpeg-6\jutils.c': No such file or directory
+  win_gamma.c
+c1 : fatal error C1083: Cannot open source file: '..\win32\win_gamma.c': No such file or directory
+  win_glimp.c
+c1 : fatal error C1083: Cannot open source file: '..\win32\win_glimp.c': No such file or directory
+  win_qgl.c
+c1 : fatal error C1083: Cannot open source file: '..\win32\win_qgl.c': No such file or directory
+  tr_animation.c
+c1 : fatal error C1083: Cannot open source file: 'tr_animation.c': No such file or directory
+  tr_backend.c
+c1 : fatal error C1083: Cannot open source file: 'tr_backend.c': No such file or directory
+  tr_bsp.c
+c1 : fatal error C1083: Cannot open source file: 'tr_bsp.c': No such file or directory
+  tr_cmds.c
+c1 : fatal error C1083: Cannot open source file: 'tr_cmds.c': No such file or directory
+  tr_cmesh.c
+c1 : fatal error C1083: Cannot open source file: 'tr_cmesh.c': No such file or directory
+  tr_curve.c
+c1 : fatal error C1083: Cannot open source file: 'tr_curve.c': No such file or directory
+  tr_flares.c
+c1 : fatal error C1083: Cannot open source file: 'tr_flares.c': No such file or directory
+  tr_font.c
+c1 : fatal error C1083: Cannot open source file: 'tr_font.c': No such file or directory
+  Generating Code...
+  Compiling...
+  tr_image.c
+c1 : fatal error C1083: Cannot open source file: 'tr_image.c': No such file or directory
+  tr_init.c
+c1 : fatal error C1083: Cannot open source file: 'tr_init.c': No such file or directory
+  tr_light.c
+c1 : fatal error C1083: Cannot open source file: 'tr_light.c': No such file or directory
+  tr_main.c
+c1 : fatal error C1083: Cannot open source file: 'tr_main.c': No such file or directory
+  tr_marks.c
+c1 : fatal error C1083: Cannot open source file: 'tr_marks.c': No such file or directory
+  tr_mesh.c
+c1 : fatal error C1083: Cannot open source file: 'tr_mesh.c': No such file or directory
+  tr_model.c
+c1 : fatal error C1083: Cannot open source file: 'tr_model.c': No such file or directory
+  tr_noise.c
+c1 : fatal error C1083: Cannot open source file: 'tr_noise.c': No such file or directory
+  tr_scene.c
+c1 : fatal error C1083: Cannot open source file: 'tr_scene.c': No such file or directory
+  tr_shade.c
+c1 : fatal error C1083: Cannot open source file: 'tr_shade.c': No such file or directory
+  tr_shader.c
+c1 : fatal error C1083: Cannot open source file: 'tr_shader.c': No such file or directory
+  tr_shade_calc.c
+c1 : fatal error C1083: Cannot open source file: 'tr_shade_calc.c': No such file or directory
+  tr_shadows.c
+c1 : fatal error C1083: Cannot open source file: 'tr_shadows.c': No such file or directory
+  tr_sky.c
+c1 : fatal error C1083: Cannot open source file: 'tr_sky.c': No such file or directory
+  tr_surface.c
+c1 : fatal error C1083: Cannot open source file: 'tr_surface.c': No such file or directory
+  tr_world.c
+c1 : fatal error C1083: Cannot open source file: 'tr_world.c': No such file or directory
+  Generating Code...

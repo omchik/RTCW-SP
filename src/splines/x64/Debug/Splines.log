@@ -1,0 +1,31 @@
+﻿  math_angles.cpp
+  math_matrix.cpp
+  math_quaternion.cpp
+  math_vector.cpp
+  q_parse.cpp
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\q_parse.cpp(339,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  q_shared.cpp
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\q_shared.cpp(128,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\q_shared.cpp(636,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  splines.cpp
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\util_str.h(181,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\util_str.h(253,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\util_str.h(267,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\util_str.h(281,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\util_str.h(310,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\util_str.h(406,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\util_str.h(443,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\splines.cpp(117,57): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  util_str.cpp
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\util_str.h(181,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\util_str.h(253,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\util_str.h(267,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\util_str.h(281,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\util_str.h(310,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\util_str.h(406,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\util_str.h(426,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\util_str.h(443,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\util_str.cpp(236,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1469,5): warning MSB8012: TargetPath(C:\Users\i.shramovich\Documents\RTCW-SP\src\x64\Debug\Splines.lib) does not match the Library's OutputFile property value (C:\Users\i.shramovich\Documents\RTCW-SP\src\splines\Debug\Splines.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  Splines.vcxproj -> C:\Users\i.shramovich\Documents\RTCW-SP\src\x64\Debug\Splines.lib

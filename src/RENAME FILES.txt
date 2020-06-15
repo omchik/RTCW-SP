@@ -1,0 +1,11 @@
+From stackoverflow:
+
+
+In command line:
+
+for /f "delims=*" %a in ('dir *.html /b /s') do ren "%a" *.php
+Note: You can replace *.html for other wildcard, e.g. d:\www\*.html.
+
+Note 2: If using the command within a batch file, replace %a with %%a (don't ask me why)
+
+Answered by: ZEDA-NL

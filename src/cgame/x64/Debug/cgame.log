@@ -1,0 +1,15 @@
+﻿  bg_lib.cpp
+C:\Users\i.shramovich\Documents\RTCW-SP\src\game\bg_lib.cpp(138,5): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\game\bg_lib.cpp(146,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\game\bg_lib.cpp(153,2): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\game\bg_lib.cpp(161,5): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\game\bg_lib.cpp(169,5): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\game\bg_lib.cpp(177,3): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\game\bg_lib.cpp(186,5): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\game\bg_lib.cpp(193,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\i.shramovich\Documents\RTCW-SP\src\game\bg_lib.cpp(310,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1288,5): warning MSB8012: TargetPath(C:\Users\i.shramovich\Documents\RTCW-SP\src\x64\Debug\cgame.dll) does not match the Linker's OutputFile property value (C:\Users\i.shramovich\Documents\RTCW-SP\src\Debug\cgamex86.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1290,5): warning MSB8012: TargetName(cgame) does not match the Linker's OutputFile property value (cgamex86). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library .\Debug/cgamex86.lib and object .\Debug/cgamex86.exp
+LINK : warning LNK4281: undesirable base address 0x30000000 for x64 image; set base address above 4GB for best ASLR optimization
+  cgame.vcxproj -> C:\Users\i.shramovich\Documents\RTCW-SP\src\x64\Debug\cgame.dll

@@ -1,0 +1,62 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  l_struct.c
+c1 : fatal error C1083: Cannot open source file: 'l_struct.c': No such file or directory
+  l_script.c
+c1 : fatal error C1083: Cannot open source file: 'l_script.c': No such file or directory
+  l_precomp.c
+c1 : fatal error C1083: Cannot open source file: 'l_precomp.c': No such file or directory
+  l_memory.c
+c1 : fatal error C1083: Cannot open source file: 'l_memory.c': No such file or directory
+  l_log.c
+c1 : fatal error C1083: Cannot open source file: 'l_log.c': No such file or directory
+  l_libvar.c
+c1 : fatal error C1083: Cannot open source file: 'l_libvar.c': No such file or directory
+  l_crc.c
+c1 : fatal error C1083: Cannot open source file: 'l_crc.c': No such file or directory
+  be_interface.c
+c1 : fatal error C1083: Cannot open source file: 'be_interface.c': No such file or directory
+  be_ea.c
+c1 : fatal error C1083: Cannot open source file: 'be_ea.c': No such file or directory
+  be_ai_weight.c
+c1 : fatal error C1083: Cannot open source file: 'be_ai_weight.c': No such file or directory
+  be_ai_weap.c
+c1 : fatal error C1083: Cannot open source file: 'be_ai_weap.c': No such file or directory
+  be_ai_move.c
+c1 : fatal error C1083: Cannot open source file: 'be_ai_move.c': No such file or directory
+  be_ai_goal.c
+c1 : fatal error C1083: Cannot open source file: 'be_ai_goal.c': No such file or directory
+  be_ai_gen.c
+c1 : fatal error C1083: Cannot open source file: 'be_ai_gen.c': No such file or directory
+  be_ai_chat.c
+c1 : fatal error C1083: Cannot open source file: 'be_ai_chat.c': No such file or directory
+  be_ai_char.c
+c1 : fatal error C1083: Cannot open source file: 'be_ai_char.c': No such file or directory
+  be_aas_sample.c
+c1 : fatal error C1083: Cannot open source file: 'be_aas_sample.c': No such file or directory
+  be_aas_routetable.c
+c1 : fatal error C1083: Cannot open source file: 'be_aas_routetable.c': No such file or directory
+  be_aas_routealt.c
+c1 : fatal error C1083: Cannot open source file: 'be_aas_routealt.c': No such file or directory
+  be_aas_route.c
+c1 : fatal error C1083: Cannot open source file: 'be_aas_route.c': No such file or directory
+  Generating Code...
+  Compiling...
+  be_aas_reach.c
+c1 : fatal error C1083: Cannot open source file: 'be_aas_reach.c': No such file or directory
+  be_aas_optimize.c
+c1 : fatal error C1083: Cannot open source file: 'be_aas_optimize.c': No such file or directory
+  be_aas_move.c
+c1 : fatal error C1083: Cannot open source file: 'be_aas_move.c': No such file or directory
+  be_aas_main.c
+c1 : fatal error C1083: Cannot open source file: 'be_aas_main.c': No such file or directory
+  be_aas_file.c
+c1 : fatal error C1083: Cannot open source file: 'be_aas_file.c': No such file or directory
+  be_aas_entity.c
+c1 : fatal error C1083: Cannot open source file: 'be_aas_entity.c': No such file or directory
+  be_aas_debug.c
+c1 : fatal error C1083: Cannot open source file: 'be_aas_debug.c': No such file or directory
+  be_aas_cluster.c
+c1 : fatal error C1083: Cannot open source file: 'be_aas_cluster.c': No such file or directory
+  be_aas_bspq3.c
+c1 : fatal error C1083: Cannot open source file: 'be_aas_bspq3.c': No such file or directory
+  Generating Code...
